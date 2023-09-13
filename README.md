@@ -1,3 +1,3 @@
 # SPIN GAME WITH PYTHON TKINTER
 
-![Alt text](spin_game.png)
+![Alt text](game.png)
